@@ -2,6 +2,10 @@
 
 A premium, framework-free HTML template for welding and metal fabrication businesses. The design features a charcoal + safety orange industrial palette with a weld-spark yellow accent, bold uppercase Oswald headings, and a workshop-grade atmosphere that communicates strength, precision, and craftsmanship.
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## 🎨 Design System
 
 | Token | Value | Usage |
